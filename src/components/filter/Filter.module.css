@@ -1,0 +1,11 @@
+.label {
+  margin-left: 30px;
+  font-size: 18px;
+}
+.label input {
+  font-size: 18px;
+  margin-left: 20px;
+}
+.label input:focus {
+  background-color: rgb(170, 212, 231);
+}

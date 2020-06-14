@@ -1,0 +1,25 @@
+.list {
+  margin: 0 auto;
+  width: 450px;
+  background-color: #fff;
+}
+li {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+p {
+  font-weight: 700;
+  width: 290px;
+  border: 1px solid rgb(149, 147, 150);
+}
+span {
+  width: 100px;
+  border: 1px solid rgb(149, 147, 150);
+}
+.delete {
+  width: 60px;
+}
+.delete:hover {
+  background-color: rgb(170, 212, 231);
+}
